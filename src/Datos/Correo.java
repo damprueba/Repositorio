@@ -16,7 +16,7 @@ public class Correo {
     private int codigoEmisor;//quien ha enviado el correo
     private Fecha fecha;
     
-    
+    private String prueba;
     
     public Correo(){
         
